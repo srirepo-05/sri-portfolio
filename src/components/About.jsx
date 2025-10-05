@@ -205,8 +205,7 @@ const About = () => {
                     Shiv Nadar University, Chennai
                   </p>
                   <div className="flex items-center gap-4 mt-2 text-gray-400 text-sm">
-                    <span>CGPA: 7.8 / 10.0</span>
-                    <span className="w-1 h-1 bg-gray-400 rounded-full"></span>
+                    
                     <span>2022 - 2026</span>
                   </div>
                 </div>
